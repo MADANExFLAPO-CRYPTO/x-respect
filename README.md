@@ -1,6 +1,6 @@
 # X-RESPECT.. Clan Website
 
-This is the official website for **X-RESPECT Clan**.  
+This is the official website for **X-RESPECT..**.  
 It is a simple HTML, CSS, and JavaScript site featuring:
 
 - **Video background** for a dynamic look.
@@ -11,7 +11,7 @@ It is a simple HTML, CSS, and JavaScript site featuring:
 ## Live Demo
 
 > Your GitHub Pages link goes here once deployed, e.g.:  
-> https://yourusername.github.io/x-respect-clan/
+> https://MADANExFLAPO-CRYPTO.github.io/X-RESPECT../
 
 ## Features
 
@@ -25,4 +25,4 @@ It is a simple HTML, CSS, and JavaScript site featuring:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/x-respect-clan.git
+git clone https://github.com/MADANExFLAPO-CRYPTO/X-RESPECT...git
